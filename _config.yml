@@ -1,14 +1,27 @@
-# Site settings
-title: Vet JC
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.vetjc.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.vetjc.com
+title: Vet JC 
+email: jcmrcvs@gmail.com.com
+author: Jonathan Cranston
+description: Cotswold Freelance Veterinary Surgeon.
+  
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: linkedin
+    url: https://uk.linkedin.com/pub/jonathan-cranston/31/ba/351
+  - title: instagram
+    url: https://instagram.com/vetjc/
