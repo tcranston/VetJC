@@ -1,0 +1,18 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title:  Farm Animal
+description: |
+---
+*Routine cattle fertility work including scanning 
+*Caesarean sections (both bovine & ovine) 
+*LDA surgery (mostly either via the Utrecht method or toggling) 
+*RDA surgeries 
+*Castrations (both bovine & ovine) 
+*Lameness work including digit amputation 
+*Eye enucleation 
+*Routine Alpaca work - castrations, unpackings, plasma transfusions 
+*Kid disbuddings 
+*Basic pig work including castrations, bleeding 
+*Registered LVI 

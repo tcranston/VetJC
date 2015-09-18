@@ -1,0 +1,15 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Equine
+description: |
+---
+*Comfortable with medical colics and first aid prior to surgery for surgical cases 
+*First opinion lameness work up including distal limb radiography and some ultrasonography experience 
+*Teeth rasping 
+*Castration (mostly recumbent) 
+*Manual rectaling 
+*Choke, rhabdomylosis, retained fetal membranes, Plasma transfusions 
+*Anaethesia induction and monitoring 
+*A few vettings 2 and 5 stage. 
