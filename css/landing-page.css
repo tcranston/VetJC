@@ -168,3 +168,16 @@ p.copyright {
 .fa-email:before {
   content: "\f0e0";
 }
+
+
+
+img.landing-page-img {
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+img.jc_padding {
+    padding: 5px;
+}
