@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: large_animal.jpg
 category: Services
 title:  Farm Animal
 description: |
