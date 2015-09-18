@@ -5,10 +5,10 @@ category: Services
 title: Small Animal
 description: |
 ---
-	* Spays, castrates, dentals, lumpectomies (both dogs & cats) 
-	* Radiography & ultrasonography for first opinion work 
-	* Splenectomies, Enterotomies, Cystotomies, gastrotomies 
-	* Caesarean, Blocked bladder, GDV 
-	* Simple fracture repairs 
-	*  Tail amputation, eye enucleations 
-	* Emergency and critical care work 
+* Spays, castrates, dentals, lumpectomies (both dogs & cats) 
+* Radiography & ultrasonography for first opinion work 
+* Splenectomies, Enterotomies, Cystotomies, gastrotomies 
+* Caesarean, Blocked bladder, GDV 
+* Simple fracture repairs 
+* Tail amputation, eye enucleations 
+* Emergency and critical care work 
