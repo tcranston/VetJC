@@ -11,12 +11,15 @@
             </button>
           <!--  <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a> 
 			<a class="navbar-brand page-scroll" href="#home"><img src="img/vetjc_full_logo.jpg" style="height:60px; "></a> -->
-			<a class="navbar-brand page-scroll" href="#home"><span style="color: #766066">Vet</span> <span style="color: #5A5979">JC </span><img src="img/vetjc_logo_img.png" class="img-circle" style="border-radius: 50%;
-height:30px; width:30px;"></a> 
+			<a class="navbar-brand page-scroll" href="#home"><img src="img/vetjc_logo_img.png" class="img-rounded" style="border-radius: 10%;
+height:50px; width:125px; margin-top:-15px;"></a> 
 		</div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">  
+                <li>
+                    <a class="page-scroll" href="#home">Home</a>
+                </li>   
             	<li>
                     <a class="page-scroll" href="#about">About</a>
                 </li>            
@@ -43,14 +46,21 @@ height:30px; width:30px;"></a>
 				<div class="col-lg-12">
 					<div class="intro-message">
 						<!-- <h1>{{ page.title }}</h1> -->
-						<h1><span style="color: #766066">Vet</span> <span style="color: #5A5979">JC </span><img src="img/vetjc_logo_img.png" class="img-circle" style="border-radius: 50%;
+                        <div class="col-md-6 col-md-offset-3
+                                    col-sm-8 col-sm-offset-2"
+                                    style="background-color: rgba(255, 255, 255, 0.85);">
+                        <img src="img/vetjc_logo_alpha.png" class="img-responsive img-rounded" style="border-radius: 40%;"">
+                        </div>
+						<!-- <h1><span style="color: #766066">Vet</span> <span style="color: #5A5979">JC </span><img src="img/vetjc_logo_img.png" class="img-circle" style="border-radius: 50%;
 height:90px; width:90px;"></h1>
-						<h3><span style="color: #fff">{{ page.subTitle }}</span></h3>
-						<hr class="intro-divider">
+						<h3><span style="color: #fff">{{ page.subTitle }}</span></h3> -->
+						<!-- <hr class="intro-divider"> -->
+                        <div class="clearfix"></div>
+                        <br><br>
 						<ul class="list-inline intro-social-buttons">
 							{% for social in site.social %}
 							<li>
-								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
+								<a href="{{ social.url }}" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
 							</li>
 							{% endfor %}
 						</ul>

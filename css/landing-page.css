@@ -10,7 +10,13 @@ html {
     height: 100%;
 }
 
-body,
+body {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
 h1,
 h2,
 h3,
@@ -20,6 +26,8 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
+
 
 .lead {
     font-size: 18px;
@@ -33,6 +41,12 @@ h6 {
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-position-x: 50%;
+    width: 100%;
+    height: auto;
+
 }
 
 .intro-message {
@@ -87,10 +101,19 @@ h6 {
     font-weight: 400;
     letter-spacing: 2px;
 }
-
+.vetjc_block {
+    background: rgba(255, 255, 255, 0.9);
+}
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
+    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-position-x: 50%;
+    width: 100%;
+    height: auto;
 }
 
 .content-section-b {
@@ -112,8 +135,15 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+ /*   background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;*/
+    background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-position-x: 50%;
+    width: 100%;
+    height: auto;
 }
 
 .banner h2 {
